@@ -1,2 +1,2 @@
 # pythonBDD
-Learning Python BDD framework creation with Behave
+Learning Python BDD with Behave (Gherkin)
